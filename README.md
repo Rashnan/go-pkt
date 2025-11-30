@@ -1,1 +1,3 @@
 Star this guys repo for having the only concise documentation and example for how to use packet tracer's PTMP: https://github.com/bfranske/pt-python-examples?tab=readme-ov-file
+
+Add the go-pkt library, then run the example code in hello
